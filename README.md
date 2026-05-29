@@ -14,3 +14,4 @@
       title="Connect with me on Instagram"
       src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3380D8"
       style="height: 23px;"
+/>
